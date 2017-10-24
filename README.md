@@ -6,6 +6,8 @@ To try it on Wrangler
 
 > sbatch /data/projects/G-818781/script/job.slurm 
 
+> Try this instead (Margaret) sbatch -p normal /data/projects/G-818781/script/job.slurm
+
 wait several minutes 
  
 > tail tweets.out
