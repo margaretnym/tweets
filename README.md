@@ -27,3 +27,7 @@ You can import the analysis note from URL directly with follwing:
 
 After you are finished with Zepplein, you can go back to your login terminal and cancel the job with following command
 > scancel -u username
+
+
+Transfer file
+> scp [/Users/margaretnym/Desktop/123.csv] [yn2436]@wrangler.tacc.utexas.edu:/data/projects/G-818781/data/trump/coded/
